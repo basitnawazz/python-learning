@@ -1,15 +1,15 @@
-print("hey i am a good boy")
-#hey basit nawaz 
-#Author:Basit 
+a = 1
+print (a)
+b = "basit"
+print(b)
+print("The type of a is " , type (a))
 
+list = [7, 8.9, [-4, 5], ["apple","banana"]]
+print(list)  
 
-print ("hello world")
-print ("i am a good\'boy\'but i am bad boy also")
-print("this is print is a statment.")
-print ("hello basit\and doremone") #printing Hello basit\and doremone 
+list2 = [1, 2, 3, 4, $,]
+print(list2)
 
-#Wow so good code 
-print ("we are doing 100 days coding")
-print ("Hey", 7, 8, sep="~" , end="2007")
-print ("basit nawaz")
+dict1 = {"name":"basit","age:15","boy":true}
+print(dict1)
 
